@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HL7 firebase", "HL7 firebase.csproj", "{4B9B6254-C0DA-4D9E-BBFE-C8A202FBDF77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B9B6254-C0DA-4D9E-BBFE-C8A202FBDF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9B6254-C0DA-4D9E-BBFE-C8A202FBDF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9B6254-C0DA-4D9E-BBFE-C8A202FBDF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9B6254-C0DA-4D9E-BBFE-C8A202FBDF77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87569F6B-33DE-45C3-A6DE-132F602D2146}
+	EndGlobalSection
+EndGlobal
